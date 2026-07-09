@@ -1,4 +1,4 @@
-# 🚀 Cloud-Native Re-Architecture of the vProfile Application on AWS
+#  Cloud-Native Re-Architecture of the vProfile Application on AWS
 
 A production-style modernization of the **vProfile multi-tier Java application**, transforming a traditional VM-based deployment into a cloud-native architecture using AWS managed services (PaaS).
 
