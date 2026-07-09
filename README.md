@@ -29,7 +29,7 @@ The application was redesigned to leverage Platform as a Service (PaaS) offering
 # 🏗️ Architecture
 
 <p align="center">
-<img src="docs/architecture.png" width="1000">
+<img src="architecture.png" width="1000">
 </p>
 
 ---
